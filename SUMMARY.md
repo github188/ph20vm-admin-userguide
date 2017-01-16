@@ -1,9 +1,19 @@
 # Summary
 
 * [系统简介](README.md)
-* [登入](chapter1.md)
-* [售货机](vending-machine.md)
-* [角色](role.md)
-
-
-
+    * [登入系统](chapter1-howtologin.md)
+    * [售货机](vending-machine.md)
+    * [管理者](role.md)
+* [如何操作：总管理员](howtouse-admin.md)
+    * [登入系统]
+    * [数据总览页面]
+    * [如何新增一般管理员]
+    * [管理员的数据维护]
+    * [如何新增一台售货机]
+    * [售货机的数据维护]
+    * [管理员的密码]
+* [如何操作：管理员](howtouse-manager.md)
+    * [登入系统]
+    * [修改售货机机率的方式]
+    * [物品补充]
+    * [忘记密码怎么办？]
