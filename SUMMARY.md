@@ -1,7 +1,7 @@
 # 目录
 
 * [系统简介](README.md)
-    - [登入系统](chapter1-howtologin.md)
+    - [系统功能说明](system-info.md)
     - [售货机](vending-machine.md)
     - [管理者](role.md)
 * [如何操作：总管理员](howtouse-admin.md)
