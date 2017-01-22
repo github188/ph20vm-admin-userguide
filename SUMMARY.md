@@ -1,19 +1,18 @@
 # 目录
 
 * [系统简介](README.md)
-    * [登入系统](chapter1-howtologin.md)
-    * [售货机](vending-machine.md)
-    * [管理者](role.md)
+    - [登入系统](chapter1-howtologin.md)
+    - [售货机](vending-machine.md)
+    - [管理者](role.md)
 * [如何操作：总管理员](howtouse-admin.md)
-    * [登入系统]
-    * [数据总览页面]
-    * [如何新增一般管理员]
-    * [管理员的数据维护]
-    * [如何新增一台售货机]
-    * [售货机的数据维护]
-    * [管理员的密码]
+    - [登入系统](howto-admin/admin-login.md)
+    - [数据总览页面](howto-admin/admin-dashboard.md)
+    - [如何新增一般管理员](howto-admin/admin-add-manager.md)
+    - [管理员的数据维护](howto-admin/admin-user-data-admin.md)
+    - [如何新增一台售货机](howto-admin/admin-add-machine.md)
+    - [售货机的数据维护](howto-admin/admin-machine-admin.md)
 * [如何操作：管理员](howtouse-manager.md)
-    * [登入系统]
-    * [修改售货机机率的方式]
-    * [物品补充]
-    * [忘记密码怎么办？]
+    - [登入系统](howto-manager/manager-login.md)
+    - [修改售货机机率的方式](howto-manager/manager-edit-probability.md)
+    - [物品补充](howto-manager/manager-refill-items.md)
+    - [忘记密码怎么办？](howto-manager/manager-forget-password.md)
