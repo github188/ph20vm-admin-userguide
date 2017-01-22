@@ -25,6 +25,6 @@ build/Release
 node_modules
 
 _book/
-book.pdf
+PHVM_userguide.pdf
 book.epub
 book.mobi
