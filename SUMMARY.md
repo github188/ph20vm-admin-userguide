@@ -11,6 +11,7 @@
     - [分店管理员的信息维护](howto-admin/admin-user-data-admin.md)
     - [如何新增售货机](howto-admin/admin-add-machine.md)
     - [售货机的信息维护](howto-admin/admin-machine-data-admin.md)
+    - [上传消费者页面图片包](howto-admin/admin-upload-webpage.md)
 * [如何操作：分店管理员](howtouse-manager.md)
     - [登入系统](howto-manager/manager-login.md)
     - [修改售货机机率的方式](howto-manager/manager-edit-probability.md)
