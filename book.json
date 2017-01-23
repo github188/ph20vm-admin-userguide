@@ -2,6 +2,13 @@
     "plugins": [
         "page-numbering"
     ],
+    "pluginsConfig": {
+        "page-numbering": {
+            "skipReadme": false,
+            "chapterFormat": "Chapter #chapno#&nbsp;&nbsp;&nbsp;#title# ||| #chapno#&nbsp;&nbsp;&nbsp;#title#",
+            "forceMultipleParts": false
+        }
+    },
     "author": "Kevin",
     "pdf": {
         "headerTemplate": "_SECTION_",
