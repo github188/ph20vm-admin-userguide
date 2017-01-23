@@ -11,7 +11,7 @@
             "top": 36,
             "bottom": 36
         },
-        "headerTemplate": _SECTION_,
-        "footerTemplate": _PAGENUM_
+        "headerTemplate": "_SECTION_",
+        "footerTemplate": "_PAGENUM_"
     }
 }
