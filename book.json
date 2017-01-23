@@ -1,7 +1,4 @@
 {
-    "plugins": [
-        "theme-comscore"
-    ],
     "styles": "styles/pdf.css",
     "author": "Kevin",
     "pdf": {
