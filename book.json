@@ -6,7 +6,7 @@
     "pdf": {
         "headerTemplate": "_SECTION_",
         "margin": {
-            "top": 60,
+            "top": 50,
             "bottom": 72
         },
         "footerTemplate": "_PAGENUM_"
