@@ -1,19 +1,17 @@
 {
-    "title": "必胜客售货机管理系统用户手册",
-    "description": "必胜客内部使用的售货机远端管理系统",
+    "plugins": [
+        "toc"
+    ],
     "author": "Kevin",
-    "language": "zh-hans",
     "pdf": {
-        "pageNumbers": true,
-        "fontSize": 12,
-        "paperSize": "a4",
+        "headerTemplate": "_SECTION_",
         "margin": {
-            "right": 62,
-            "left": 62,
             "top": 72,
             "bottom": 72
         },
-        "headerTemplate": "_SECTION_",
         "footerTemplate": "_PAGENUM_"
-    }
+    },
+    "title": "必胜客售货机管理系统用户手册",
+    "language": "zh-hans",
+    "description": "必胜客内部使用的售货机远端管理系统"
 }
