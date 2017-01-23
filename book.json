@@ -4,9 +4,6 @@
     "description": "必胜客内部使用的售货机远端管理系统",
     "isbn": null,
 
-    // Plugins list, can contain "-name" for removing default plugins
-    // "plugins": [],
-
     // Options for PDF generation
     "pdf": {
         // Add page numbers to the bottom of every page
