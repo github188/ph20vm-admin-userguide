@@ -6,7 +6,6 @@
 访问必胜客自动贩卖机管理系统 `http://c2.pizzahut.com.cn:8080/`。
 
 ![](/images/admin/login.png)
-<img src="/images/admin/login.png" width="1135" height="736" />
 
 ####步骤二
 输入`帐号`与`密码`。
