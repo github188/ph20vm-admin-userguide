@@ -1,5 +1,4 @@
 {
-    "styles": "styles/pdf.css",
     "author": "Kevin",
     "pdf": {
         "headerTemplate": "_SECTION_",
