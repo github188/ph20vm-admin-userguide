@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "etoc"
+        "page-numbering"
     ],
     "author": "Kevin",
     "pdf": {
