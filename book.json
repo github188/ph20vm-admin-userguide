@@ -2,8 +2,6 @@
     "title": "必胜客售货机管理系统用户手册",
     "description": "必胜客内部使用的售货机远端管理系统",
     "isbn": null,
-
-    // Options for PDF generation
     "pdf": {
         // Add page numbers to the bottom of every page
         "pageNumbers": true,
