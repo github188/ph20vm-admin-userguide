@@ -2,7 +2,7 @@
 
 ### 1.系统说明
 
-* [系统简介](system-info/README.md)
+* [系统简介](system-intro/README.md)
 * [系统功能说明](system-intro/system-info.md)
 * [售货机](system-intro/vending-machine.md)
 * [管理员](system-intro/role.md)
