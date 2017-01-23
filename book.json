@@ -10,5 +10,6 @@
     },
     "title": "必胜客售货机管理系统用户手册",
     "language": "zh-hans",
-    "description": "必胜客内部使用的售货机远端管理系统"
+    "description": "必胜客内部使用的售货机远端管理系统",
+    "styles": "pdf"
 }
