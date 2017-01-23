@@ -2,6 +2,10 @@
     "plugins": [
         "tocstyles"
     ],
+    "pluginsConfig":
+  {
+    "tocstyles" : [ "", "cjk-ideographic", "decimal-leading-zero" ]
+  },
     "author": "Kevin",
     "pdf": {
         "headerTemplate": "_SECTION_",
