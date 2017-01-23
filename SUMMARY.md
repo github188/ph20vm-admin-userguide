@@ -1,9 +1,9 @@
 # 目录
 
 * [系统简介](README.md)
-  - [系统功能说明](system-intro/system-info.md)
-  - [售货机](system-intro/vending-machine.md)
-  - [管理员](system-intro/role.md)
+  * [系统功能说明](system-intro/system-info.md)
+  * [售货机](system-intro/vending-machine.md)
+  * [管理员](system-intro/role.md)
 
 
 * [如何操作：总管理员](howto-admin/README.md)

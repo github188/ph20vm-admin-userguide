@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "toc"
+        "etoc"
     ],
     "author": "Kevin",
     "pdf": {
